@@ -1,0 +1,104 @@
+.p-profile{
+    background: url(/assets/img/david7.png);
+    // width:32%;
+    // height:195px;
+    width: 245px;
+    height: 246px;
+    background-size: cover;
+    background-position:top;
+    background-repeat:no-repeat;
+    border-radius: 100%;
+    border: 1px solid white;
+    // margin-top: 60px;
+    margin: 50%;
+    
+}
+.decreaseimg{
+    // display:block;
+    width:100%;
+}
+
+.p-tag{
+    background: #9b1a1a;
+    color: #fff;
+    padding: 6px,10px;
+    font-size:59px;
+    width: 77%;
+}
+
+.p-des{
+    width:80%
+}
+
+hr {
+    -moz-border-bottom-colors: none;
+    -moz-contenu-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+    border-style: solid none;
+    border-width: 1px 0;
+    margin: 18px 0;
+  }
+
+.line-bottom{
+    border-bottom: 1px solid grey;
+    padding: 12px 0;
+    width: 77%;
+}
+
+.texte{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 1.2em;
+              
+}
+.yellow{
+    color:yellow;
+}
+.sizeresponsive{
+    font-size:10vw;
+    padding:1%;
+    text-align: center;
+}
+
+
+
+
+.marg-left{
+    border:3px solid red;
+   
+     margin-left:5%;
+     margin-right:5%;
+     
+     
+}
+
+.marg-right{
+    border:3px solid red;
+   
+     margin-left:17%;
+     
+     
+}
+.marg-bottom{
+    border:3px solid red;
+    
+     margin-bottom:17%;
+     
+     
+}
+.marg-top{
+    border:3px solid red;
+    //  padding:17%;
+     margin-top:2%;
+     
+     
+}
+.column{
+    border:3px solid blue;
+}
+// .col-sm-7{
+//     border:10px solid white;
+// }
